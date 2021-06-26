@@ -11,6 +11,9 @@ namespace SnakeAttack
         static void Main(string[] args)
         {
             Console.WriteLine( );
+
+
+            Console.WriteLine();
         }
     }
 }
