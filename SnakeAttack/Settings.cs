@@ -6,14 +6,7 @@ using System.Threading.Tasks;
 
 namespace SnakeAttack
 {
-    class Program
+    class Settings
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine();
-
-
-            Console.WriteLine("Hello");
-        }
     }
 }
