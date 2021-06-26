@@ -13,7 +13,7 @@ namespace SnakeAttack
             Console.WriteLine( );
 
 
-            Console.WriteLine();
+            Console.WriteLine(Hello);
         }
     }
 }
