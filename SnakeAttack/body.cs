@@ -8,5 +8,14 @@ namespace SnakeAttack
 {
     class body
     {
+        public int X { get; set; }
+        public int Y { get; set; }
+
+        public body()
+        {
+            X = 0;
+            Y = 0;
+        }
+
     }
 }
