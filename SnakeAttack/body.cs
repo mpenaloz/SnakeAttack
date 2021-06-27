@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace SnakeAttack
 {
-    class body
+    public class Body
     {
         public int X { get; set; }
         public int Y { get; set; }
 
-        public body()
+        public Body ()
         {
             X = 0;
             Y = 0;
