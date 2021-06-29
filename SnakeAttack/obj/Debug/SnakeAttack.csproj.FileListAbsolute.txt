@@ -1,10 +1,8 @@
-C:\Users\mig22\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\SnakeAttack\SnakeAttack\obj\Debug\SnakeAttack.csproj.AssemblyReference.cache
-C:\Users\mig22\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\SnakeAttack\SnakeAttack\obj\Debug\SnakeAttack.csproj.CoreCompileInputs.cache
 C:\Users\mig22\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\SnakeAttack\SnakeAttack\bin\Debug\SnakeAttack.exe.config
 C:\Users\mig22\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\SnakeAttack\SnakeAttack\bin\Debug\SnakeAttack.exe
 C:\Users\mig22\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\SnakeAttack\SnakeAttack\bin\Debug\SnakeAttack.pdb
-C:\Users\mig22\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\SnakeAttack\SnakeAttack\obj\Debug\SnakeAttack.Form1.resources
 C:\Users\mig22\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\SnakeAttack\SnakeAttack\obj\Debug\SnakeAttack.Properties.Resources.resources
 C:\Users\mig22\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\SnakeAttack\SnakeAttack\obj\Debug\SnakeAttack.csproj.GenerateResource.cache
+C:\Users\mig22\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\SnakeAttack\SnakeAttack\obj\Debug\SnakeAttack.csproj.CoreCompileInputs.cache
 C:\Users\mig22\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\SnakeAttack\SnakeAttack\obj\Debug\SnakeAttack.exe
 C:\Users\mig22\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\SnakeAttack\SnakeAttack\obj\Debug\SnakeAttack.pdb
